@@ -1,0 +1,23 @@
+
+.site-nav {
+    padding: 12px 20px;
+    background-color: #1f1f1f;
+    text-align: center;
+}
+
+.site-nav a,
+.site-nav a:visited {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 4px;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+    background-color: #101010;
+    color: #fff;
+}
